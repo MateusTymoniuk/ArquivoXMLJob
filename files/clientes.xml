@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes>
+    <cliente>
+        <nome>João</nome>
+        <sobrenome>Silva</sobrenome>
+        <idade>20</idade>
+        <email>joao.silva@email.com</email>
+    </cliente>
+    <cliente>
+        <nome>Maria</nome>
+        <sobrenome>Santos</sobrenome>
+        <idade>30</idade>
+        <email>maria.santos@email.com</email>
+    </cliente>
+    <cliente>
+        <nome>José</nome>
+        <sobrenome>Jesus</sobrenome>
+        <idade>50</idade>
+        <email>jose.jesus@email.com</email>
+    </cliente>
+</clientes>
